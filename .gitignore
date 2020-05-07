@@ -1,6 +1,7 @@
 # Parcel #
 .cache
 dist
+build
 
 # Yarn / NPM #
 .DS_*
