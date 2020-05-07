@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["alert"],"mappings":";;;AAEA,aAFA,QAAA,gBAEAA,MAAM","file":"index.js","sourceRoot":"../src","sourcesContent":["import './index.scss';\n\nalert('loaded2');\n"]}

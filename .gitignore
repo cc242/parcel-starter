@@ -1,0 +1,18 @@
+# Parcel #
+.cache
+dist
+
+# Yarn / NPM #
+.DS_*
+*.log
+logs
+node_modules
+
+# VisualStudioCode #
+.history
+!.vscode/tasks.json
+!.vscode/launch.json
+
+.idea/
+.idea/workspace.xml
+**/.idea/workspace.xml **/.idea/tasks.xml
